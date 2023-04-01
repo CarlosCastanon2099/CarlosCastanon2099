@@ -2,9 +2,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/CarlosCastanon2099/CarlosCastanon2099/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/CarlosCastanon2099/CarlosCastanon2099/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
