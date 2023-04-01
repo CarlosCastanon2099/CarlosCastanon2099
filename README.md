@@ -1,11 +1,5 @@
 <h2 align="left">¡Hola! 👋 Soy un apasionado de la programación, con habilidades en varios lenguajes, como Java, Haskell, C y la plataforma Android. Me encanta explorar temas avanzados como la computación cuántica, la inteligencia artificial y la lógica computacional, siempre en busca de nuevos desafíos y oportunidades de aprendizaje.<br><br>Cuando no estoy frente a la pantalla, me gusta relajarme con la música y disfruto especialmente del rock 🤘. Estoy emocionado por las oportunidades que el futuro nos depara y estoy ansioso por explorar nuevas tecnologías y herramientas para seguir creciendo. ¡Hablemos!</h2>
 
-###
-
-![snake gif](https://github.com/CarlosCastanon2099/CarlosCastanon2099/blob/output/github-contribution-grid-snake.gif)
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/CarlosCastanon2099/count.svg?"  />
 </div>
@@ -29,6 +23,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CarlosCastanon2099&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosCastanon2099&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+###
+
+![snake gif](https://github.com/CarlosCastanon2099/CarlosCastanon2099/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
