@@ -34,8 +34,3 @@
 
 ###
 
-###
-
-<img align="right" height="150" src="https://tenor.com/es-419/view/batman-batman-beyond-pixel-art-gif-19869547"  />
-
-###
