@@ -28,7 +28,9 @@
 
 ###
 
-![snake gif](https://github.com/CarlosCastanon2099/CarlosCastanon2099/blob/output/github-contribution-grid-snake.gif)
+<br clear="both">
+
+<img src="https://github.com/CarlosCastanon2099/CarlosCastanon2099/blob/output/github-contribution-grid-snake.svg" alt="Generate Snake" />
 
 ###
 
