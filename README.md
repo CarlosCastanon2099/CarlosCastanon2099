@@ -1,8 +1,17 @@
 <h2 align="left">¡Hola! 👋 Soy un apasionado de la programación, con habilidades en varios lenguajes, como Java, Haskell, C y la plataforma Android. Me encanta explorar temas avanzados como la computación cuántica, la inteligencia artificial y la lógica computacional, siempre en busca de nuevos desafíos y oportunidades de aprendizaje.<br><br>Cuando no estoy frente a la pantalla, me gusta relajarme con la música y disfruto especialmente del rock 🤘. Estoy emocionado por las oportunidades que el futuro nos depara y estoy ansioso por explorar nuevas tecnologías y herramientas para seguir creciendo. ¡Hablemos!</h2>
 
+<!---
+Gif que se actualiza segun el numero de visitas al repo
 <div align="center">
   <img src="https://profile-counter.glitch.me/CarlosCastanon2099/count.svg?"  />
 </div>
+-->
+
+###
+
+[![](https://64.media.tumblr.com/80f00480c59f2c3641f64d725c3dd83e/tumblr_phy8y1IYmS1qfj44oo4_r1_540.gifv)](https://www.youtube.com/watch?v=2jKa_0xnTfU)
+
+###
 
 ###
 
