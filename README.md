@@ -39,24 +39,24 @@ Gif que se actualiza segun el numero de visitas al repo
 
 ###
 
-
+<!---
 <div align="center">
 
-![snake animation](https://github.com/CarlosCastanon2099/CarlosCastanon2099/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/CarlosCastanon2099/CarlosCastanon2099/blob/output/snake.svg)
 
 </div>
 
+-->
 
 
-<!---
 
 <div align="center">
 
 <br clear="both">
 
-<img src="https://github.com/CarlosCastanon2099/CarlosCastanon2099/blob/output/github-contribution-grid-snake.svg" alt="Generate Snake" />
+<img src="https://github.com/CarlosCastanon2099/CarlosCastanon2099/blob/output/snake.svg" alt="Generate Snake" />
 
 </div>
 
--->
+
 
