@@ -27,7 +27,7 @@ jobs:
           outputs: | 
             dist/snake.svg
             dist/snake.svg?palette=github-dark
-            dist/ocean.gif?color_snake=red&color_dots=#b6d7a8,#38761d,#3d85c6,#16537e,#6a329f
+            dist/snake.svg?color_snake=red&color_dots=#b6d7a8,#38761d,#3d85c6,#16537e,#6a329f
 
 
       - name: push snake.svg to the output branch
